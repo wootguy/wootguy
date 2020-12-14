@@ -1,7 +1,10 @@
 # Sven Co-op Projects
 
 Click the :arrow_down: icons to skip straight to the download page for a project.  
+
 Click the respository links for more info and installation instructions.
+
+
 
 ## Tools
 These tools should also work with Half-Life, but I don't test for that.
@@ -46,8 +49,8 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | --- | --- |
 | [:arrow_down:](https://github.com/wootguy/env_weather/releases/latest)&nbsp;&nbsp;[env_weather](https://github.com/wootguy/env_weather) | Adds snow, rain, and fog volumes. |
 | [:arrow_down:](https://github.com/wootguy/hl_c11_a3_anti_troll/releases/latest)&nbsp;&nbsp;[hl_c11_a3_anti_troll](https://github.com/wootguy/hl_c11_a3_anti_troll) | Disables restarts caused by the tripmine explosions in this map. |
-| [:arrow_down:](https://github.com/wootguy/sc_doom/archive/master.zip)&nbsp;&nbsp;[sc_doom](https://github.com/wootguy/sc_doom) | Map scripts for the Doom II maps. |
-| [:arrow_down:](https://github.com/wootguy/sc_rust/archive/master.zip)&nbsp;&nbsp;[sc_rust](https://github.com/wootguy/sc_rust) | Map scripts for the Rust maps. |
+| [:arrow_down:](https://github.com/wootguy/sc_doom/archive/master.zip)&nbsp;&nbsp;[sc_doom](https://github.com/wootguy/sc_doom) | Map scripts for the [Doom II](http://scmapdb.com/map:doom-ii) maps. |
+| [:arrow_down:](https://github.com/wootguy/sc_rust/archive/master.zip)&nbsp;&nbsp;[sc_rust](https://github.com/wootguy/sc_rust) | Map scripts for the [Rust](http://scmapdb.com/map:rust) maps. |
 | [:arrow_down:](https://github.com/wootguy/util_ents/archive/master.zip)&nbsp;&nbsp;[util_ents](https://github.com/wootguy/util_ents) | Utility entities. |
 | [:arrow_down:](https://github.com/wootguy/weapon_custom/releases/latest)&nbsp;&nbsp;[weapon_custom](https://github.com/wootguy/weapon_custom) | Custom weapons made easy. |
 
