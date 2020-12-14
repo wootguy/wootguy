@@ -2,12 +2,6 @@
 
 Download links are found in the `Releases` page in each repository. If none exists, click `Code` -> `Download ZIP` instead.
 
-## Websites
-| URL | Repository | Description |
-| --- | --- | --- |
-| https://w00tguy.no-ip.org/scmapdb/ | [scmapdb](https://github.com/wootguy/scmapdb) | Map repacker for [SCMapDB](http://scmapdb.com/). |
-| https://wootguy.github.io/scmodels/ | [scmodels](https://github.com/wootguy/scmodels) | Helps you find player models. |
-
 ## Tools
 
 | Repository | Description |
@@ -16,6 +10,12 @@ Download links are found in the `Releases` page in each repository. If none exis
 | [Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
 | [modelguy](https://github.com/wootguy/modelguy) | Modifies models without having to decompile them.  |
 | [resguy](https://github.com/wootguy/resguy) | Resource file (.res) generator and map packer. |
+
+## Websites
+| URL | Repository | Description |
+| --- | --- | --- |
+| https://w00tguy.no-ip.org/scmapdb/ | [scmapdb](https://github.com/wootguy/scmapdb) | Map repacker for [SCMapDB](http://scmapdb.com/). |
+| https://wootguy.github.io/scmodels/ | [scmodels](https://github.com/wootguy/scmodels) | Helps you find player models. |
 
 ## Server Plugins
 
