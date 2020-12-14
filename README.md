@@ -1,7 +1,6 @@
 # Sven Co-op Projects
 
 Click the :arrow_down: icons to skip straight to the download page for a project.  
-
 Click the respository links for more info and installation instructions.
 
 
