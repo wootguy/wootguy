@@ -37,8 +37,8 @@ Click the respository links for more info and installation instructions.
 | [:arrow_down:](https://github.com/wootguy/voice_commands/releases/latest)&nbsp;&nbsp;[voice_commands](https://github.com/wootguy/voice_commands) | Adds custom voice commands that function like the "Take Cover!" and "Medic!" alerts. |
 
 ## Map Scripts
-| Repository | Download | Description |
-| --- | :-: | --- |
+| Repository | Description |
+| --- | --- |
 | [:arrow_down:](https://github.com/wootguy/env_weather/releases/latest)&nbsp;&nbsp;[env_weather](https://github.com/wootguy/env_weather) | Adds snow, rain, and fog volumes. |
 | [:arrow_down:](https://github.com/wootguy/hl_c11_a3_anti_troll/releases/latest)&nbsp;&nbsp;[hl_c11_a3_anti_troll](https://github.com/wootguy/hl_c11_a3_anti_troll) | Disables restarts caused by the tripmine explosions in this map. |
 | [:arrow_down:](https://github.com/wootguy/sc_doom/archive/master.zip)&nbsp;&nbsp;[sc_doom](https://github.com/wootguy/sc_doom) | Map scripts for the Doom II maps. |
