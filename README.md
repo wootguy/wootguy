@@ -1,9 +1,11 @@
 # Sven Co-op Projects
 
-Click the :arrow_down: icons to go straight to the download page for a project.  
+Click the :arrow_down: icons to skip straight to the download page for a project.  
 Click the respository links for more info and installation instructions.
 
 ## Tools
+These tools should also work with Half-Life, but I don't test for that.
+
 | Repository | Description |
 | --- | --- |
 | [:arrow_down:](https://github.com/wootguy/bspguy/releases/latest)&nbsp;&nbsp;[bspguy](https://github.com/wootguy/bspguy) | Modifies maps without having to decompile them. |
@@ -18,6 +20,8 @@ Click the respository links for more info and installation instructions.
 | [scmodels](https://github.com/wootguy/scmodels) | https://wootguy.github.io/scmodels/ | Helps you find player models. |
 
 ## Server Plugins
+
+See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=605607881) for general installation instructions. Most of these plugins have additional instructions to follow.
 
 | Repository | Description |
 | --- | --- |
@@ -37,6 +41,7 @@ Click the respository links for more info and installation instructions.
 | [:arrow_down:](https://github.com/wootguy/voice_commands/releases/latest)&nbsp;&nbsp;[voice_commands](https://github.com/wootguy/voice_commands) | Adds custom voice commands that function like the "Take Cover!" and "Medic!" alerts. |
 
 ## Map Scripts
+
 | Repository | Description |
 | --- | --- |
 | [:arrow_down:](https://github.com/wootguy/env_weather/releases/latest)&nbsp;&nbsp;[env_weather](https://github.com/wootguy/env_weather) | Adds snow, rain, and fog volumes. |
