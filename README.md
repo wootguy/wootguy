@@ -1,5 +1,7 @@
 # Sven Co-op Projects
 
+Download links are found in the `Releases` page in each repository. If none exists, click `Code` -> `Download ZIP` instead.
+
 ## Websites
 | URL | Repository | Description |
 | --- | --- | --- |
@@ -19,7 +21,7 @@
 
 | Repository | Description |
 | --- | --- |
-| [AfkPunisher](https://github.com/wootguy/AfkPunisher) | Stress reliever. |
+| [AfkPunisher](https://github.com/wootguy/AfkPunisher) | Adds pissing. |
 | [AntiBlock](https://github.com/wootguy/AntiBlock) | A simple solution to the player blocking problem. +USE players to swap places with them. |
 | [AntiRush](https://github.com/wootguy/AntiRush) | Prevents level changes until a certain amount of players reach the end, or until a timer finishes. |
 | [Cheats](https://github.com/wootguy/Cheats) | Bypasses the player count limitation for cheats, and makes them easier to use. |
@@ -27,11 +29,11 @@
 | [emotes](https://github.com/wootguy/emotes) | Adds commands for testing player model animations. |
 | [ForceSurvival](https://github.com/wootguy/ForceSurvival) | Enables survival support for all maps (toggled by admin commands). |
 | [ghosts](https://github.com/wootguy/ghosts) | Adds visible models for observers in survival mode. |
+| [LagCompensator](https://github.com/wootguy/LagCompensator) | Fixes laggy monster hitboxes. |
 | [Lost](https://github.com/wootguy/Lost) | Adds name tags and helps players find each other. |
 | [PortalSpawner](https://github.com/wootguy/PortalSpawner) | Creates persistent shortcuts in maps. |
-| [TooManyPolys](https://github.com/wootguy/TooManyPolys) | Prevents high-poly player models from tanking framerates. |
-| [LagCompensator](https://github.com/wootguy/LagCompensator) | Fixes laggy monster hitboxes. |
 | [TextToSpeech](https://github.com/wootguy/TextToSpeech) | Reads chat messages aloud. |
+| [TooManyPolys](https://github.com/wootguy/TooManyPolys) | Prevents high-poly player models from tanking framerates. |
 | [voice_commands](https://github.com/wootguy/voice_commands) | Adds custom voice commands that function like the "Take Cover!" and "Medic!" alerts. |
 
 ## Map Scripts
