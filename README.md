@@ -37,6 +37,7 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | [:arrow_down:](https://github.com/wootguy/ghosts/releases/latest)&nbsp;&nbsp;[ghosts](https://github.com/wootguy/ghosts) | Adds visible models for observers in survival mode. |
 | [:arrow_down:](https://github.com/wootguy/LagCompensator/releases/latest)&nbsp;&nbsp;[LagCompensator](https://github.com/wootguy/LagCompensator) | Fixes laggy monster hitboxes. |
 | [:arrow_down:](https://github.com/wootguy/Lost/releases/latest)&nbsp;&nbsp;[Lost](https://github.com/wootguy/Lost) | Adds name tags and helps players find each other. |
+| [:arrow_down:](https://github.com/wootguy/PlayerStatus/archive/master.zip)&nbsp;&nbsp;[PlayerStatus](https://github.com/wootguy/PlayerStatus) | Shows status icons and messages for loading and laggy players. |
 | [:arrow_down:](https://github.com/wootguy/PortalSpawner/releases/latest)&nbsp;&nbsp;[PortalSpawner](https://github.com/wootguy/PortalSpawner) | Creates persistent shortcuts in maps. |
 | [:arrow_down:](https://github.com/wootguy/TextToSpeech/releases/latest)&nbsp;&nbsp;[TextToSpeech](https://github.com/wootguy/TextToSpeech) | Reads chat messages aloud. |
 | [:arrow_down:](https://github.com/wootguy/TooManyPolys/releases/latest)&nbsp;&nbsp;[TooManyPolys](https://github.com/wootguy/TooManyPolys) | Prevents high-poly player models from tanking framerates. |
