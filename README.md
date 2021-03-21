@@ -12,7 +12,7 @@ These tools should also work with Half-Life, but I don't test for that.
 | --- | --- |
 | [:arrow_down:](https://github.com/wootguy/bspguy/releases/latest)&nbsp;&nbsp;[bspguy](https://github.com/wootguy/bspguy) | Modifies maps without having to decompile them. |
 | [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
-| [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Modifies models without having to decompile them.  |
+| [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Modifies models without having to decompile them. (Obsolete! Use [HLAM](https://github.com/Solokiller/HL_Tools/releases) instead).  |
 | [:arrow_down:](https://github.com/wootguy/resguy/releases/latest)&nbsp;&nbsp;[resguy](https://github.com/wootguy/resguy) | Resource file (.res) generator and map packer. |
 
 ## Websites
