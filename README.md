@@ -30,6 +30,7 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | [:arrow_down:](https://github.com/wootguy/AfkPunisher/archive/master.zip)&nbsp;&nbsp;[AfkPunisher](https://github.com/wootguy/AfkPunisher) | Adds pissing. |
 | [:arrow_down:](https://github.com/wootguy/AntiBlock/releases/latest)&nbsp;&nbsp;[AntiBlock](https://github.com/wootguy/AntiBlock) | A simple solution to the player blocking problem. +USE players to swap places with them. |
 | [:arrow_down:](https://github.com/wootguy/AntiRush/releases/latest)&nbsp;&nbsp;[AntiRush](https://github.com/wootguy/AntiRush) | Prevents level changes until a certain amount of players reach the end, or until a timer finishes. |
+| [:arrow_down:](https://github.com/wootguy/ChatColors/archive/master.zip)&nbsp;&nbsp;[ChatColors](https://github.com/wootguy/Cheats) | Let's players choose a color for their name in chat. |
 | [:arrow_down:](https://github.com/wootguy/Cheats/releases/latest)&nbsp;&nbsp;[Cheats](https://github.com/wootguy/Cheats) | Bypasses the player count limitation for cheats, and makes them easier to use. |
 | [:arrow_down:](https://github.com/wootguy/ClassicModeDeluxe/releases/latest)&nbsp;&nbsp;[ClassicModeDeluxe](https://github.com/wootguy/ClassicModeDeluxe) | Enables classic mode support for all maps, monsters, and weapons. |
 | [:arrow_down:](https://github.com/wootguy/emotes/releases/latest)&nbsp;&nbsp;[emotes](https://github.com/wootguy/emotes) | Adds commands for testing player model animations. |
@@ -39,6 +40,7 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | [:arrow_down:](https://github.com/wootguy/Lost/releases/latest)&nbsp;&nbsp;[Lost](https://github.com/wootguy/Lost) | Adds name tags and helps players find each other. |
 | [:arrow_down:](https://github.com/wootguy/PlayerStatus/archive/master.zip)&nbsp;&nbsp;[PlayerStatus](https://github.com/wootguy/PlayerStatus) | Shows status icons and messages for loading and laggy players. |
 | [:arrow_down:](https://github.com/wootguy/PortalSpawner/releases/latest)&nbsp;&nbsp;[PortalSpawner](https://github.com/wootguy/PortalSpawner) | Creates persistent shortcuts in maps. |
+| [:arrow_down:](https://github.com/wootguy/RockTheVote/archive/master.zip)&nbsp;&nbsp;[RockTheVote](https://github.com/wootguy/PortalSpawner) | Yet another rtv plugin. Also prevents maps being overplayed. |
 | [:arrow_down:](https://github.com/wootguy/TextToSpeech/releases/latest)&nbsp;&nbsp;[TextToSpeech](https://github.com/wootguy/TextToSpeech) | Reads chat messages aloud. |
 | [:arrow_down:](https://github.com/wootguy/TooManyPolys/releases/latest)&nbsp;&nbsp;[TooManyPolys](https://github.com/wootguy/TooManyPolys) | Prevents high-poly player models from tanking framerates. |
 | [:arrow_down:](https://github.com/wootguy/voice_commands/releases/latest)&nbsp;&nbsp;[voice_commands](https://github.com/wootguy/voice_commands) | Adds custom voice commands that function like the "Take Cover!" and "Medic!" alerts. |
