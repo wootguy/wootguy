@@ -41,6 +41,7 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | [:arrow_down:](https://github.com/wootguy/PlayerStatus/archive/master.zip)&nbsp;&nbsp;[PlayerStatus](https://github.com/wootguy/PlayerStatus) | Shows status icons and messages for loading and laggy players. |
 | [:arrow_down:](https://github.com/wootguy/PortalSpawner/releases/latest)&nbsp;&nbsp;[PortalSpawner](https://github.com/wootguy/PortalSpawner) | Creates persistent shortcuts in maps. |
 | [:arrow_down:](https://github.com/wootguy/RockTheVote/archive/master.zip)&nbsp;&nbsp;[RockTheVote](https://github.com/wootguy/RockTheVote) | Yet another rtv plugin. Also prevents maps being overplayed. |
+| [:arrow_down:](https://github.com/wootguy/Spectate/archive/master.zip)&nbsp;&nbsp;[Spectate](https://github.com/wootguy/Spectate) | Allows toggling observer mode when survival is off. |
 | [:arrow_down:](https://github.com/wootguy/TextToSpeech/releases/latest)&nbsp;&nbsp;[TextToSpeech](https://github.com/wootguy/TextToSpeech) | Reads chat messages aloud. |
 | [:arrow_down:](https://github.com/wootguy/TooManyPolys/releases/latest)&nbsp;&nbsp;[TooManyPolys](https://github.com/wootguy/TooManyPolys) | Prevents high-poly player models from tanking framerates. |
 | [:arrow_down:](https://github.com/wootguy/voice_commands/releases/latest)&nbsp;&nbsp;[voice_commands](https://github.com/wootguy/voice_commands) | Adds custom voice commands that function like the "Take Cover!" and "Medic!" alerts. |
