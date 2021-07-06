@@ -29,7 +29,10 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | --- | --- |
 | [:arrow_down:](https://github.com/wootguy/AfkPunisher/archive/master.zip)&nbsp;&nbsp;[AfkPunisher](https://github.com/wootguy/AfkPunisher) | Adds pissing. |
 | [:arrow_down:](https://github.com/wootguy/AntiBlock/releases/latest)&nbsp;&nbsp;[AntiBlock](https://github.com/wootguy/AntiBlock) | A simple solution to the player blocking problem. +USE players to swap places with them. |
+| [:arrow_down:](https://github.com/wootguy/AntiCheat/archive/master.zip)&nbsp;&nbsp;[AntiCheat](https://github.com/wootguy/AntiCheat) | Kills speedhackers. |
 | [:arrow_down:](https://github.com/wootguy/AntiRush/releases/latest)&nbsp;&nbsp;[AntiRush](https://github.com/wootguy/AntiRush) | Prevents level changes until a certain amount of players reach the end, or until a timer finishes. |
+| [:arrow_down:](https://github.com/wootguy/AntiSpam/archive/master.zip)&nbsp;&nbsp;[AntiSpam](https://github.com/wootguy/AntiSpam) | Throttles chat spammers. |
+| [:arrow_down:](https://github.com/wootguy/AntiStall/archive/master.zip)&nbsp;&nbsp;[AntiStall](https://github.com/wootguy/AntiStall) | Prevents stalling in survival mode. |
 | [:arrow_down:](https://github.com/wootguy/ChatColors/archive/master.zip)&nbsp;&nbsp;[ChatColors](https://github.com/wootguy/ChatColors) | Lets players choose a color for their name in chat. |
 | [:arrow_down:](https://github.com/wootguy/Cheats/releases/latest)&nbsp;&nbsp;[Cheats](https://github.com/wootguy/Cheats) | Bypasses the player count limitation for cheats, and makes them easier to use. |
 | [:arrow_down:](https://github.com/wootguy/ClassicModeDeluxe/releases/latest)&nbsp;&nbsp;[ClassicModeDeluxe](https://github.com/wootguy/ClassicModeDeluxe) | Enables classic mode support for all maps, monsters, and weapons. |
