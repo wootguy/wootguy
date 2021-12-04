@@ -27,7 +27,7 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 
 | Repository | Description |
 | --- | --- |
-| [:arrow_down:](https://github.com/wootguy/AfkPunisher/archive/master.zip)&nbsp;&nbsp;[AfkPunisher](https://github.com/wootguy/AfkPunisher) | Adds pissing. |
+| [:arrow_down:](https://github.com/wootguy/AfkAbuse/archive/master.zip)&nbsp;&nbsp;[AfkAbuse](https://github.com/wootguy/AfkAbuse) | Attach ropes to AFK players and push them around. |
 | [:arrow_down:](https://github.com/wootguy/AntiBlock/releases/latest)&nbsp;&nbsp;[AntiBlock](https://github.com/wootguy/AntiBlock) | A simple solution to the player blocking problem. +USE players to swap places with them. |
 | [:arrow_down:](https://github.com/wootguy/AntiCheat/archive/master.zip)&nbsp;&nbsp;[AntiCheat](https://github.com/wootguy/AntiCheat) | Kills speedhackers. |
 | [:arrow_down:](https://github.com/wootguy/AntiRush/releases/latest)&nbsp;&nbsp;[AntiRush](https://github.com/wootguy/AntiRush) | Prevents level changes until a certain amount of players reach the end, or until a timer finishes. |
@@ -37,6 +37,7 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | [:arrow_down:](https://github.com/wootguy/Cheats/releases/latest)&nbsp;&nbsp;[Cheats](https://github.com/wootguy/Cheats) | Bypasses the player count limitation for cheats, and makes them easier to use. |
 | [:arrow_down:](https://github.com/wootguy/ClassicModeDeluxe/releases/latest)&nbsp;&nbsp;[ClassicModeDeluxe](https://github.com/wootguy/ClassicModeDeluxe) | Enables classic mode support for all maps, monsters, and weapons. |
 | [:arrow_down:](https://github.com/wootguy/emotes/releases/latest)&nbsp;&nbsp;[emotes](https://github.com/wootguy/emotes) | Adds commands for testing player model animations. |
+| [:arrow_down:](https://github.com/wootguy/Fluids/archive/master.zip)&nbsp;&nbsp;[Fluids](https://github.com/wootguy/Fluids) | Adds body fluid commands. |
 | [:arrow_down:](https://github.com/wootguy/ForceSurvival/releases/latest)&nbsp;&nbsp;[ForceSurvival](https://github.com/wootguy/ForceSurvival) | Enables survival support for all maps (toggled by admin commands). |
 | [:arrow_down:](https://github.com/wootguy/ghosts/releases/latest)&nbsp;&nbsp;[ghosts](https://github.com/wootguy/ghosts) | Adds visible models for observers in survival mode. |
 | [:arrow_down:](https://github.com/wootguy/LagCompensator/releases/latest)&nbsp;&nbsp;[LagCompensator](https://github.com/wootguy/LagCompensator) | Fixes laggy monster hitboxes. |
