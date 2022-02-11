@@ -18,7 +18,7 @@ These tools should also work with Half-Life, but I don't test for that.
 ## Websites
 | Repository | URL | Description |
 | --- | --- | --- |
-| [scmapdb](https://github.com/wootguy/scmapdb) | https://w00tguy.no-ip.org/scmapdb/ | Map repacker for [SCMapDB](http://scmapdb.com/). |
+| [scmapdb](https://github.com/wootguy/scmapdb) | https://wootguy.github.io/scmapdb/ | Map repacker for [SCMapDB](http://scmapdb.com/). |
 | [scmodels](https://github.com/wootguy/scmodels) | https://wootguy.github.io/scmodels/ | Helps you find player models. |
 
 ## Server Plugins
@@ -42,7 +42,7 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | [:arrow_down:](https://github.com/wootguy/ghosts/releases/latest)&nbsp;&nbsp;[ghosts](https://github.com/wootguy/ghosts) | Adds visible models for observers in survival mode. |
 | [:arrow_down:](https://github.com/wootguy/LagCompensator/releases/latest)&nbsp;&nbsp;[LagCompensator](https://github.com/wootguy/LagCompensator) | Fixes laggy monster hitboxes. |
 | [:arrow_down:](https://github.com/wootguy/Lost/releases/latest)&nbsp;&nbsp;[Lost](https://github.com/wootguy/Lost) | Adds name tags and helps players find each other. |
-| [:arrow_down:](https://github.com/wootguy/PlayerStatus/archive/master.zip)&nbsp;&nbsp;[PlayerStatus](https://github.com/wootguy/PlayerStatus) | Shows status icons and messages for loading and laggy players. |
+| [:arrow_down:](https://github.com/wootguy/PlayerStatus/archive/master.zip)&nbsp;&nbsp;[PlayerStatus](https://github.com/wootguy/PlayerStatus) | Shows status icons and messages for loading/laggy/AFK players. |
 | [:arrow_down:](https://github.com/wootguy/PortalSpawner/releases/latest)&nbsp;&nbsp;[PortalSpawner](https://github.com/wootguy/PortalSpawner) | Creates persistent shortcuts in maps. |
 | [:arrow_down:](https://github.com/wootguy/RockTheVote/archive/master.zip)&nbsp;&nbsp;[RockTheVote](https://github.com/wootguy/RockTheVote) | Yet another rtv plugin. Also prevents maps being overplayed. |
 | [:arrow_down:](https://github.com/wootguy/Spectate/archive/master.zip)&nbsp;&nbsp;[Spectate](https://github.com/wootguy/Spectate) | Allows toggling observer mode when survival is off. |
