@@ -25,6 +25,8 @@ These tools should also work with Half-Life, but I don't test for that.
 
 See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=605607881) for general installation instructions. Most of these plugins have additional instructions to follow.
 
+Last updated 2022/08/06 (added ChatSounds, MicFix, and Radio)
+
 | Repository | Description |
 | --- | --- |
 | [:arrow_down:](https://github.com/wootguy/AfkAbuse/archive/master.zip)&nbsp;&nbsp;[AfkAbuse](https://github.com/wootguy/AfkAbuse) | Attach ropes to AFK players and push them around. |
@@ -34,6 +36,7 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | [:arrow_down:](https://github.com/wootguy/AntiSpam/archive/master.zip)&nbsp;&nbsp;[AntiSpam](https://github.com/wootguy/AntiSpam) | Throttles chat spammers. |
 | [:arrow_down:](https://github.com/wootguy/AntiStall/archive/master.zip)&nbsp;&nbsp;[AntiStall](https://github.com/wootguy/AntiStall) | Prevents stalling in survival mode. |
 | [:arrow_down:](https://github.com/wootguy/ChatColors/archive/master.zip)&nbsp;&nbsp;[ChatColors](https://github.com/wootguy/ChatColors) | Lets players choose a color for their name in chat. |
+| [:arrow_down:](https://github.com/wootguy/ChatSounds/archive/refs/heads/master.zip)&nbsp;&nbsp;[ChatSounds](https://github.com/wootguy/ChatSounds) | Play sounds by typing special words in chat. |
 | [:arrow_down:](https://github.com/wootguy/Cheats/releases/latest)&nbsp;&nbsp;[Cheats](https://github.com/wootguy/Cheats) | Bypasses the player count limitation for cheats, and makes them easier to use. |
 | [:arrow_down:](https://github.com/wootguy/ClassicModeDeluxe/releases/latest)&nbsp;&nbsp;[ClassicModeDeluxe](https://github.com/wootguy/ClassicModeDeluxe) | Enables classic mode support for all maps, monsters, and weapons. |
 | [:arrow_down:](https://github.com/wootguy/emotes/releases/latest)&nbsp;&nbsp;[emotes](https://github.com/wootguy/emotes) | Adds commands for testing player model animations. |
@@ -42,8 +45,10 @@ See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=60560788
 | [:arrow_down:](https://github.com/wootguy/ghosts/releases/latest)&nbsp;&nbsp;[ghosts](https://github.com/wootguy/ghosts) | Adds visible models for observers in survival mode. |
 | [:arrow_down:](https://github.com/wootguy/LagCompensator/releases/latest)&nbsp;&nbsp;[LagCompensator](https://github.com/wootguy/LagCompensator) | Fixes laggy monster hitboxes. |
 | [:arrow_down:](https://github.com/wootguy/Lost/releases/latest)&nbsp;&nbsp;[Lost](https://github.com/wootguy/Lost) | Adds name tags and helps players find each other. |
+| [:arrow_down:](https://github.com/wootguy/MicFix/archive/refs/heads/master.zip)&nbsp;&nbsp;[MicFix](https://github.com/wootguy/MicFix) | Fixes microphone audio breaking during and after cutscenes. |
 | [:arrow_down:](https://github.com/wootguy/PlayerStatus/archive/master.zip)&nbsp;&nbsp;[PlayerStatus](https://github.com/wootguy/PlayerStatus) | Shows status icons and messages for loading/laggy/AFK players. |
 | [:arrow_down:](https://github.com/wootguy/PortalSpawner/releases/latest)&nbsp;&nbsp;[PortalSpawner](https://github.com/wootguy/PortalSpawner) | Creates persistent shortcuts in maps. |
+| [:arrow_down:](https://github.com/wootguy/Radio/archive/refs/heads/master.zip)&nbsp;&nbsp;[Radio](https://github.com/wootguy/Radio) | Stream audio/video by pasting links in chat. |
 | [:arrow_down:](https://github.com/wootguy/RockTheVote/archive/master.zip)&nbsp;&nbsp;[RockTheVote](https://github.com/wootguy/RockTheVote) | Yet another rtv plugin. Also prevents maps being overplayed. |
 | [:arrow_down:](https://github.com/wootguy/Spectate/archive/master.zip)&nbsp;&nbsp;[Spectate](https://github.com/wootguy/Spectate) | Allows toggling observer mode when survival is off. |
 | [:arrow_down:](https://github.com/wootguy/TextToSpeech/releases/latest)&nbsp;&nbsp;[TextToSpeech](https://github.com/wootguy/TextToSpeech) | Reads chat messages aloud. |
