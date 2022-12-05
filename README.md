@@ -23,37 +23,38 @@ These tools should also work with Half-Life, but I don't test for that.
 
 ## Server Plugins
 
-See [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=605607881) for general installation instructions. Most of these plugins have additional instructions to follow.
+See these [Angelscript](https://steamcommunity.com/sharedfiles/filedetails/?id=605607881) and [Metamod](https://hlds101.com/metamod.htm) guides for general plugin installation instructions. Most of these plugins have additional instructions to follow.
 
-Last updated 2022/08/06 (added ChatSounds, MicFix, and Radio)
+Last updated 2022/12/04 (converted AntiCheat/Radio to metamod + added MapChangeMsg)
 
-| Repository | Description |
-| --- | --- |
-| [:arrow_down:](https://github.com/wootguy/AfkAbuse/archive/master.zip)&nbsp;&nbsp;[AfkAbuse](https://github.com/wootguy/AfkAbuse) | Attach ropes to AFK players and push them around. |
-| [:arrow_down:](https://github.com/wootguy/AntiBlock/releases/latest)&nbsp;&nbsp;[AntiBlock](https://github.com/wootguy/AntiBlock) | A simple solution to the player blocking problem. +USE players to swap places with them. |
-| [:arrow_down:](https://github.com/wootguy/AntiCheat/archive/master.zip)&nbsp;&nbsp;[AntiCheat](https://github.com/wootguy/AntiCheat) | Kills speedhackers. |
-| [:arrow_down:](https://github.com/wootguy/AntiRush/releases/latest)&nbsp;&nbsp;[AntiRush](https://github.com/wootguy/AntiRush) | Prevents level changes until a certain amount of players reach the end, or until a timer finishes. |
-| [:arrow_down:](https://github.com/wootguy/AntiSpam/archive/master.zip)&nbsp;&nbsp;[AntiSpam](https://github.com/wootguy/AntiSpam) | Throttles chat spammers. |
-| [:arrow_down:](https://github.com/wootguy/AntiStall/archive/master.zip)&nbsp;&nbsp;[AntiStall](https://github.com/wootguy/AntiStall) | Prevents stalling in survival mode. |
-| [:arrow_down:](https://github.com/wootguy/ChatColors/archive/master.zip)&nbsp;&nbsp;[ChatColors](https://github.com/wootguy/ChatColors) | Lets players choose a color for their name in chat. |
-| [:arrow_down:](https://github.com/wootguy/ChatSounds/archive/refs/heads/master.zip)&nbsp;&nbsp;[ChatSounds](https://github.com/wootguy/ChatSounds) | Play sounds by typing special words in chat. |
-| [:arrow_down:](https://github.com/wootguy/Cheats/releases/latest)&nbsp;&nbsp;[Cheats](https://github.com/wootguy/Cheats) | Bypasses the player count limitation for cheats, and makes them easier to use. |
-| [:arrow_down:](https://github.com/wootguy/ClassicModeDeluxe/releases/latest)&nbsp;&nbsp;[ClassicModeDeluxe](https://github.com/wootguy/ClassicModeDeluxe) | Enables classic mode support for all maps, monsters, and weapons. |
-| [:arrow_down:](https://github.com/wootguy/emotes/releases/latest)&nbsp;&nbsp;[emotes](https://github.com/wootguy/emotes) | Adds commands for testing player model animations. |
-| [:arrow_down:](https://github.com/wootguy/Fluids/archive/master.zip)&nbsp;&nbsp;[Fluids](https://github.com/wootguy/Fluids) | Adds body fluid commands. |
-| [:arrow_down:](https://github.com/wootguy/ForceSurvival/releases/latest)&nbsp;&nbsp;[ForceSurvival](https://github.com/wootguy/ForceSurvival) | Enables survival support for all maps (toggled by admin commands). |
-| [:arrow_down:](https://github.com/wootguy/ghosts/releases/latest)&nbsp;&nbsp;[ghosts](https://github.com/wootguy/ghosts) | Adds visible models for observers in survival mode. |
-| [:arrow_down:](https://github.com/wootguy/LagCompensator/releases/latest)&nbsp;&nbsp;[LagCompensator](https://github.com/wootguy/LagCompensator) | Fixes laggy monster hitboxes. |
-| [:arrow_down:](https://github.com/wootguy/Lost/releases/latest)&nbsp;&nbsp;[Lost](https://github.com/wootguy/Lost) | Adds name tags and helps players find each other. |
-| [:arrow_down:](https://github.com/wootguy/MicFix/archive/refs/heads/master.zip)&nbsp;&nbsp;[MicFix](https://github.com/wootguy/MicFix) | Fixes microphone audio breaking during and after cutscenes. |
-| [:arrow_down:](https://github.com/wootguy/PlayerStatus/archive/master.zip)&nbsp;&nbsp;[PlayerStatus](https://github.com/wootguy/PlayerStatus) | Shows status icons and messages for loading/laggy/AFK players. |
-| [:arrow_down:](https://github.com/wootguy/PortalSpawner/releases/latest)&nbsp;&nbsp;[PortalSpawner](https://github.com/wootguy/PortalSpawner) | Creates persistent shortcuts in maps. |
-| [:arrow_down:](https://github.com/wootguy/Radio/archive/refs/heads/master.zip)&nbsp;&nbsp;[Radio](https://github.com/wootguy/Radio) | Stream audio/video by pasting links in chat. |
-| [:arrow_down:](https://github.com/wootguy/RockTheVote/archive/master.zip)&nbsp;&nbsp;[RockTheVote](https://github.com/wootguy/RockTheVote) | Yet another rtv plugin. Also prevents maps being overplayed. |
-| [:arrow_down:](https://github.com/wootguy/Spectate/archive/master.zip)&nbsp;&nbsp;[Spectate](https://github.com/wootguy/Spectate) | Allows toggling observer mode when survival is off. |
-| [:arrow_down:](https://github.com/wootguy/TextToSpeech/releases/latest)&nbsp;&nbsp;[TextToSpeech](https://github.com/wootguy/TextToSpeech) | Reads chat messages aloud. |
-| [:arrow_down:](https://github.com/wootguy/TooManyPolys/releases/latest)&nbsp;&nbsp;[TooManyPolys](https://github.com/wootguy/TooManyPolys) | Prevents high-poly player models from tanking framerates. |
-| [:arrow_down:](https://github.com/wootguy/voice_commands/releases/latest)&nbsp;&nbsp;[voice_commands](https://github.com/wootguy/voice_commands) | Adds custom voice commands that function like the "Take Cover!" and "Medic!" alerts. |
+| Repository | Plugin Type | Description |
+| --- | --- | --- |
+| [:arrow_down:](https://github.com/wootguy/AfkAbuse/archive/master.zip)&nbsp;&nbsp;[AfkAbuse](https://github.com/wootguy/AfkAbuse) | Angelscript | Attach ropes to AFK players and push them around. |
+| [:arrow_down:](https://github.com/wootguy/AntiBlock/releases/latest)&nbsp;&nbsp;[AntiBlock](https://github.com/wootguy/AntiBlock) | Angelscript | A simple solution to the player blocking problem. +USE players to swap places with them. |
+| [:arrow_down:](https://github.com/wootguy/AntiCheat/releases/latest)&nbsp;&nbsp;[AntiCheat](https://github.com/wootguy/AntiCheat) | Metamod | Blocks speedhacks and jumpbugs. |
+| [:arrow_down:](https://github.com/wootguy/AntiRush/releases/latest)&nbsp;&nbsp;[AntiRush](https://github.com/wootguy/AntiRush) | Angelscript | Prevents level changes until a certain amount of players reach the end, or until a timer finishes. |
+| [:arrow_down:](https://github.com/wootguy/AntiSpam/archive/master.zip)&nbsp;&nbsp;[AntiSpam](https://github.com/wootguy/AntiSpam) | Angelscript | Throttles chat spammers. |
+| [:arrow_down:](https://github.com/wootguy/AntiStall/archive/master.zip)&nbsp;&nbsp;[AntiStall](https://github.com/wootguy/AntiStall) | Angelscript | Prevents stalling in survival mode. |
+| [:arrow_down:](https://github.com/wootguy/ChatColors/archive/master.zip)&nbsp;&nbsp;[ChatColors](https://github.com/wootguy/ChatColors) | Angelscript | Lets players choose a color for their name in chat. |
+| [:arrow_down:](https://github.com/wootguy/ChatSounds/archive/refs/heads/master.zip)&nbsp;&nbsp;[ChatSounds](https://github.com/wootguy/ChatSounds) | Angelscript | Play sounds by typing special words in chat. |
+| [:arrow_down:](https://github.com/wootguy/Cheats/releases/latest)&nbsp;&nbsp;[Cheats](https://github.com/wootguy/Cheats) | Angelscript | Bypasses the player count limitation for cheats, and makes them easier to use. |
+| [:arrow_down:](https://github.com/wootguy/ClassicModeDeluxe/releases/latest)&nbsp;&nbsp;[ClassicModeDeluxe](https://github.com/wootguy/ClassicModeDeluxe) | Angelscript | Enables classic mode support for all maps, monsters, and weapons. |
+| [:arrow_down:](https://github.com/wootguy/emotes/releases/latest)&nbsp;&nbsp;[emotes](https://github.com/wootguy/emotes) | Angelscript | Adds commands for testing player model animations. |
+| [:arrow_down:](https://github.com/wootguy/Fluids/archive/master.zip)&nbsp;&nbsp;[Fluids](https://github.com/wootguy/Fluids) | Angelscript | Adds body fluid commands. |
+| [:arrow_down:](https://github.com/wootguy/ForceSurvival/releases/latest)&nbsp;&nbsp;[ForceSurvival](https://github.com/wootguy/ForceSurvival) | Angelscript | Enables survival support for all maps (toggled by admin commands). |
+| [:arrow_down:](https://github.com/wootguy/ghosts/releases/latest)&nbsp;&nbsp;[ghosts](https://github.com/wootguy/ghosts) | Angelscript | Adds visible models for observers in survival mode. |
+| [:arrow_down:](https://github.com/wootguy/LagCompensator/releases/latest)&nbsp;&nbsp;[LagCompensator](https://github.com/wootguy/LagCompensator) | Angelscript | Fixes laggy monster hitboxes. |
+| [:arrow_down:](https://github.com/wootguy/Lost/releases/latest)&nbsp;&nbsp;[Lost](https://github.com/wootguy/Lost) | Angelscript | Adds name tags and helps players find each other. |
+| [:arrow_down:](https://github.com/wootguy/MapChangeMsg/releases/latest)&nbsp;&nbsp;[MapChangeMsg](https://github.com/wootguy/MapChangeMsg) | Metamod | Shows a chat message and intermission screen when a level change is triggered. |
+| [:arrow_down:](https://github.com/wootguy/MicFix/archive/refs/heads/master.zip)&nbsp;&nbsp;[MicFix](https://github.com/wootguy/MicFix) | Angelscript | Fixes microphone audio breaking during and after cutscenes. |
+| [:arrow_down:](https://github.com/wootguy/PlayerStatus/archive/master.zip)&nbsp;&nbsp;[PlayerStatus](https://github.com/wootguy/PlayerStatus) | Angelscript | Shows status icons and messages for loading/laggy/AFK players. |
+| [:arrow_down:](https://github.com/wootguy/PortalSpawner/releases/latest)&nbsp;&nbsp;[PortalSpawner](https://github.com/wootguy/PortalSpawner) | Angelscript | Creates persistent shortcuts in maps. |
+| [:arrow_down:](https://github.com/wootguy/Radio/archive/refs/heads/master.zip)&nbsp;&nbsp;[Radio](https://github.com/wootguy/Radio) | Metamod | Stream audio/video by pasting links in chat. |
+| [:arrow_down:](https://github.com/wootguy/RockTheVote/archive/master.zip)&nbsp;&nbsp;[RockTheVote](https://github.com/wootguy/RockTheVote) | Angelscript | Yet another rtv plugin. Also prevents maps being overplayed. |
+| [:arrow_down:](https://github.com/wootguy/Spectate/archive/master.zip)&nbsp;&nbsp;[Spectate](https://github.com/wootguy/Spectate) | Angelscript | Allows toggling observer mode when survival is off. |
+| [:arrow_down:](https://github.com/wootguy/TextToSpeech/releases/latest)&nbsp;&nbsp;[TextToSpeech](https://github.com/wootguy/TextToSpeech) | Angelscript | Reads chat messages aloud. |
+| [:arrow_down:](https://github.com/wootguy/TooManyPolys/releases/latest)&nbsp;&nbsp;[TooManyPolys](https://github.com/wootguy/TooManyPolys) | Angelscript | Prevents high-poly player models from tanking framerates. |
+| [:arrow_down:](https://github.com/wootguy/voice_commands/releases/latest)&nbsp;&nbsp;[voice_commands](https://github.com/wootguy/voice_commands) | Angelscript | Adds custom voice commands that function like the "Take Cover!" and "Medic!" alerts. |
 
 ## Map Scripts
 
