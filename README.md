@@ -23,7 +23,7 @@ These tools should also work with Half-Life, but I don't test for that.
 
 ## Server Plugins
 
-See these [Angelscript](https://steamcommunity.com/sharedfiles/filedetails/?id=605607881) and [Metamod]([https://hlds101.com/metamod.htm](https://github.com/wootguy/metamod-p/blob/master/README.md)) guides for general plugin installation instructions. Most of these plugins have additional instructions to follow.
+See these [Angelscript](https://steamcommunity.com/sharedfiles/filedetails/?id=605607881) and [Metamod](https://github.com/wootguy/metamod-p/blob/master/README.md) guides for general plugin installation instructions. Most of these plugins have additional instructions to follow.
 
 Last updated 2022/12/04 (converted AntiCheat/Radio to metamod + added MapChangeMsg)
 
