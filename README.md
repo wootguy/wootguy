@@ -20,7 +20,7 @@ These tools should also work with Half-Life, but I don't test for that.
 | --- | --- | --- |
 | [scmapdb](https://github.com/wootguy/scmapdb) | https://wootguy.github.io/scmapdb/ | Map repacker for [SCMapDB](http://scmapdb.com/). |
 | [scmodels](https://github.com/wootguy/scmodels) | https://wootguy.github.io/scmodels/ | Helps you find player models. |
-| [sctracker](https://github.com/wootguy/sctracker) | https://wootguy.github.io/sctracker/ | GameTracker alternative (their website broke). |
+| [sctracker](https://github.com/wootguy/sctracker) | https://wootguy.github.io/sctracker/ | [GameTracker](https://www.gametracker.com/search/hl/?search_by=server_variable&search_by2=gamename&query=Sven%20Co-op) alternative (their website broke). |
 
 ## Server Plugins
 
