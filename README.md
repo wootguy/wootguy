@@ -3,8 +3,10 @@
 Click the :arrow_down: icons to skip straight to the download page for a project.  
 Click the respository links for more info and installation instructions.
 
+2024/12/09: I'm not currently supporting my sven-specific projects. I want to focus all modding energy on [Half-Life Co-op](https://github.com/wootguy/SevenKewp). Expect slow response times to problems (months/years/forever).
+
 ## Tools
-These tools should also work with Half-Life, but I don't test for that.
+Most of these tools also work with Half-Life.
 
 | Repository | Description |
 | --- | --- |
@@ -24,6 +26,8 @@ These tools should also work with Half-Life, but I don't test for that.
 ## Server Plugins
 
 See these [Angelscript](https://steamcommunity.com/sharedfiles/filedetails/?id=605607881) and [Metamod](https://github.com/wootguy/metamod-p/blob/master/README.md) guides for general plugin installation instructions. Most of these plugins have additional instructions to follow.
+
+2024/12/09: Some of these repos are confusing now because I was beginning to port everything to metamod. I never finished any of those ports. Use angelscript where available.
 
 | Repository | Plugin Type | Description |
 | --- | --- | --- |
