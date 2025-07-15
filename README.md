@@ -14,13 +14,14 @@ Most of these tools also work with Half-Life.
 | [:arrow_down:](https://github.com/wootguy/bspguy/releases/latest)&nbsp;&nbsp;[bspguy](https://github.com/wootguy/bspguy) | Modifies maps without having to decompile them. |
 | [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
 | [:arrow_down:](https://github.com/wootguy/mmlib#creating-a-new-project-that-uses-mmlib)&nbsp;&nbsp;[mmlib](https://github.com/wootguy/mmlib) | Utility code, private headers, and build system for metamod plugin devs. |
+| [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Model editing utility. |
 | [:arrow_down:](https://github.com/wootguy/resguy/releases/latest)&nbsp;&nbsp;[resguy](https://github.com/wootguy/resguy) | Resource file (.res) generator and map packer. |
 
 ## Websites
 | Repository | URL | Description |
 | --- | --- | --- |
 | [scmapdb](https://github.com/wootguy/scmapdb) | https://wootguy.github.io/scmapdb/ | Map repacker for [SCMapDB](http://scmapdb.com/). |
-| [scmodels](https://github.com/wootguy/scmodels) | https://wootguy.github.io/scmodels/ | Helps you find player models. |
+| [pmodels](https://github.com/wootguy/pmodels) | https://wootguy.github.io/pmodels/ | Helps you find player models. |
 | [sctracker](https://github.com/wootguy/sctracker) | https://wootguy.github.io/sctracker/ | [GameTracker](https://www.gametracker.com/search/hl/?search_by=server_variable&search_by2=gamename&query=Sven%20Co-op) alternative. |
 
 ## Server Plugins
@@ -71,4 +72,4 @@ See these [Angelscript](https://steamcommunity.com/sharedfiles/filedetails/?id=6
 | [:arrow_down:](https://github.com/wootguy/weapon_custom/releases/latest)&nbsp;&nbsp;[weapon_custom](https://github.com/wootguy/weapon_custom) | Custom weapons made easy. |
 | [:arrow_down:](https://github.com/wootguy/display/archive/master.zip)&nbsp;&nbsp;[display](https://github.com/wootguy/display) | Video streaming plugin for cinema maps. |
 
-Last updated 2023/10/18. Added ApiGenerator, mmlib, display, rcbot, sctracker. Removed modelguy.
+Last updated 2025/07/14. re-added modelguy, renamed scmodels to pmodels.
