@@ -15,6 +15,7 @@ Most of these tools also work with Half-Life.
 | [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
 | [:arrow_down:](https://github.com/wootguy/mmlib#creating-a-new-project-that-uses-mmlib)&nbsp;&nbsp;[mmlib](https://github.com/wootguy/mmlib) | Utility code, private headers, and build system for metamod plugin devs. |
 | [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Model editing utility. |
+| [:arrow_down:](https://github.com/wootguy/studiodec/releases/latest)&nbsp;&nbsp;[studiodec](https://github.com/wootguy/studiodec) | Command-line MDL decompiler. |
 | [:arrow_down:](https://github.com/wootguy/resguy/releases/latest)&nbsp;&nbsp;[resguy](https://github.com/wootguy/resguy) | Resource file (.res) generator and map packer. |
 
 ## Websites
@@ -28,7 +29,7 @@ Most of these tools also work with Half-Life.
 
 See these [Angelscript](https://steamcommunity.com/sharedfiles/filedetails/?id=605607881) and [Metamod](https://github.com/wootguy/metamod-p/blob/master/README.md) guides for general plugin installation instructions. Most of these plugins have additional instructions to follow.
 
-2024/12/09: Some of these repos are confusing now because I was beginning to port everything to metamod. I never finished any of those ports. Use angelscript where available.
+2024/12/09: Some of these repos are confusing now because I was beginning to port everything to metamod. I never finished any of those ports. Use angelscript where available. You may need to switch the branch from `master`.
 
 | Repository | Plugin Type | Description |
 | --- | --- | --- |
@@ -72,4 +73,4 @@ See these [Angelscript](https://steamcommunity.com/sharedfiles/filedetails/?id=6
 | [:arrow_down:](https://github.com/wootguy/weapon_custom/releases/latest)&nbsp;&nbsp;[weapon_custom](https://github.com/wootguy/weapon_custom) | Custom weapons made easy. |
 | [:arrow_down:](https://github.com/wootguy/display/archive/master.zip)&nbsp;&nbsp;[display](https://github.com/wootguy/display) | Video streaming plugin for cinema maps. |
 
-Last updated 2025/07/14. re-added modelguy, renamed scmodels to pmodels.
+Last updated 2026/3/31. Added studiodec.
