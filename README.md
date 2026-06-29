@@ -30,7 +30,7 @@ Deprecated tools that were designed specifically for Sven Co-op.
 | Repository | Description |
 | --- | --- |
 | [:arrow_down:](https://github.com/wootguy/ApiGenerator)&nbsp;&nbsp;[ApiGenerator](https://github.com/wootguy/ApiGenerator) | Automatically reverse engineers entity class headers. |
-| [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
+| [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | [Super](https://www.youtube.com/watch?v=IJSBJ6gkMS0) [famous](https://www.youtube.com/watch?v=VgB3CdZrCZY) map randomizer. Inspired by Keen's manually random HL edits. |
 | [:arrow_down:](https://github.com/wootguy/mmlib#creating-a-new-project-that-uses-mmlib)&nbsp;&nbsp;[mmlib](https://github.com/wootguy/mmlib) | Utility code, private headers, and build system for metamod plugin devs. |
 | [:arrow_down:](https://github.com/wootguy/resguy/releases/latest)&nbsp;&nbsp;[resguy](https://github.com/wootguy/resguy) | Resource file (.res) generator and map packer.<br>.res files are obsolete in HLC but this is still useful for map packing. |
 | [:arrow_down:](https://wootguy.github.io/scmapdb/)&nbsp;&nbsp;[scmapdb](https://github.com/wootguy/scmapdb) | Map repacker for [SCMapDB](http://scmapdb.com/). | 
