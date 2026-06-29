@@ -15,6 +15,7 @@ Most of these tools also work with Half-Life.
 | [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
 | [:arrow_down:](https://github.com/wootguy/mmlib#creating-a-new-project-that-uses-mmlib)&nbsp;&nbsp;[mmlib](https://github.com/wootguy/mmlib) | Utility code, private headers, and build system for metamod plugin devs. |
 | [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Model editing utility. |
+| [:arrow_down:](https://github.com/wootguy/spriteguy/releases/latest)&nbsp;&nbsp;[spriteguy](https://github.com/wootguy/spriteguy) | Command-line sprite compiler and editor. |
 | [:arrow_down:](https://github.com/wootguy/studiodec/releases/latest)&nbsp;&nbsp;[studiodec](https://github.com/wootguy/studiodec) | Command-line MDL decompiler. |
 | [:arrow_down:](https://github.com/wootguy/resguy/releases/latest)&nbsp;&nbsp;[resguy](https://github.com/wootguy/resguy) | Resource file (.res) generator and map packer. |
 
