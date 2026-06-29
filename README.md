@@ -11,7 +11,7 @@ Most of these tools also work with Half-Life.
 | Repository | Description |
 | --- | --- |
 | [:arrow_down:](https://github.com/wootguy/ApiGenerator)&nbsp;&nbsp;[ApiGenerator](https://github.com/wootguy/ApiGenerator) | Automatically reverse engineers entity class headers for Sven Co-op. |
-| [:arrow_down:](https://github.com/wootguy/bspguy/releases/latest)&nbsp;&nbsp;[bspguy](https://github.com/wootguy/bspguy) | Edits GoldSrc maps without decompiling . |
+| [:arrow_down:](https://github.com/wootguy/bspguy/releases/latest)&nbsp;&nbsp;[bspguy](https://github.com/wootguy/bspguy) | Edits GoldSrc maps without decompiling. |
 | [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
 | [:arrow_down:](https://github.com/wootguy/mmlib#creating-a-new-project-that-uses-mmlib)&nbsp;&nbsp;[mmlib](https://github.com/wootguy/mmlib) | Utility code, private headers, and build system for metamod plugin devs. |
 | [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Model editing utility. |
@@ -74,4 +74,4 @@ See these [Angelscript](https://steamcommunity.com/sharedfiles/filedetails/?id=6
 | [:arrow_down:](https://github.com/wootguy/weapon_custom/releases/latest)&nbsp;&nbsp;[weapon_custom](https://github.com/wootguy/weapon_custom) | Custom weapons made easy. |
 | [:arrow_down:](https://github.com/wootguy/display/archive/master.zip)&nbsp;&nbsp;[display](https://github.com/wootguy/display) | Video streaming plugin for cinema maps. |
 
-Last updated 2026/3/31. Added studiodec.
+Last updated 2026/06/29. Added spriteguy.
