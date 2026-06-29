@@ -17,7 +17,7 @@ My main project is [Half-Life Co-op](https://github.com/wootguy/SevenKewp). Most
 | Repository | URL | Description |
 | --- | --- | --- |
 | [hlcoop_web](https://github.com/wootguy/hlcoop_web) | https://wootguy.github.io/hlcoop_web/ | Web interface for my Half-Life Co-op server. |
-| [pmodels](https://github.com/wootguy/pmodels) | https://wootguy.github.io/pmodels/ | Helps you find player models. |
+| [pmodels](https://github.com/wootguy/pmodels) | https://wootguy.github.io/pmodels/ | Player model database. |
 | [sctracker](https://github.com/wootguy/sctracker) | https://wootguy.github.io/sctracker/ | [GameTracker](https://www.gametracker.com/search/hl/?search_by=server_variable&search_by2=gamename&query=Sven%20Co-op) alternative. |
 
 # Sven Co-op Projects
