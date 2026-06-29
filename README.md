@@ -1,23 +1,17 @@
-# Sven Co-op Projects
+# Half-Life Projects
 
 Click the :arrow_down: icons to skip straight to the download page for a project.  
 Click the respository links for more info and installation instructions.
 
-2024/12/09: I'm not currently supporting my sven-specific projects. I want to focus all modding energy on [Half-Life Co-op](https://github.com/wootguy/SevenKewp). Expect slow response times to problems (months/years/forever).
+My main project is [Half-Life Co-op](https://github.com/wootguy/SevenKewp). Most of my modding energy goes into developing it and related tools.
 
 ## Tools
-Most of these tools also work with Half-Life.
-
 | Repository | Description |
 | --- | --- |
-| [:arrow_down:](https://github.com/wootguy/ApiGenerator)&nbsp;&nbsp;[ApiGenerator](https://github.com/wootguy/ApiGenerator) | Automatically reverse engineers entity class headers for Sven Co-op. |
-| [:arrow_down:](https://github.com/wootguy/bspguy/releases/latest)&nbsp;&nbsp;[bspguy](https://github.com/wootguy/bspguy) | Edits GoldSrc maps without decompiling. |
-| [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
-| [:arrow_down:](https://github.com/wootguy/mmlib#creating-a-new-project-that-uses-mmlib)&nbsp;&nbsp;[mmlib](https://github.com/wootguy/mmlib) | Utility code, private headers, and build system for metamod plugin devs. |
-| [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Model editing utility. |
+| [:arrow_down:](https://github.com/wootguy/bspguy/releases/latest)&nbsp;&nbsp;[bspguy](https://github.com/wootguy/bspguy) | Map explorer and editor. |
+| [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Model editor. |
 | [:arrow_down:](https://github.com/wootguy/spriteguy/releases/latest)&nbsp;&nbsp;[spriteguy](https://github.com/wootguy/spriteguy) | Command-line sprite compiler and editor. |
-| [:arrow_down:](https://github.com/wootguy/studiodec/releases/latest)&nbsp;&nbsp;[studiodec](https://github.com/wootguy/studiodec) | Command-line MDL decompiler. |
-| [:arrow_down:](https://github.com/wootguy/resguy/releases/latest)&nbsp;&nbsp;[resguy](https://github.com/wootguy/resguy) | Resource file (.res) generator and map packer. |
+| [:arrow_down:](https://github.com/wootguy/studiodec/releases/latest)&nbsp;&nbsp;[studiodec](https://github.com/wootguy/studiodec) | Command-line model decompiler. |
 
 ## Websites
 | Repository | URL | Description |
@@ -25,6 +19,20 @@ Most of these tools also work with Half-Life.
 | [scmapdb](https://github.com/wootguy/scmapdb) | https://wootguy.github.io/scmapdb/ | Map repacker for [SCMapDB](http://scmapdb.com/). |
 | [pmodels](https://github.com/wootguy/pmodels) | https://wootguy.github.io/pmodels/ | Helps you find player models. |
 | [sctracker](https://github.com/wootguy/sctracker) | https://wootguy.github.io/sctracker/ | [GameTracker](https://www.gametracker.com/search/hl/?search_by=server_variable&search_by2=gamename&query=Sven%20Co-op) alternative. |
+
+# Sven Co-op Projects
+
+I no longer support any of these projects. Some of them will be ported to Half-Life Co-op.
+
+## Tools
+Deprecated tools that were designed specifically for Sven Co-op.
+
+| Repository | Description |
+| --- | --- |
+| [:arrow_down:](https://github.com/wootguy/ApiGenerator)&nbsp;&nbsp;[ApiGenerator](https://github.com/wootguy/ApiGenerator) | Automatically reverse engineers entity class headers. |
+| [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
+| [:arrow_down:](https://github.com/wootguy/mmlib#creating-a-new-project-that-uses-mmlib)&nbsp;&nbsp;[mmlib](https://github.com/wootguy/mmlib) | Utility code, private headers, and build system for metamod plugin devs. |
+| [:arrow_down:](https://github.com/wootguy/resguy/releases/latest)&nbsp;&nbsp;[resguy](https://github.com/wootguy/resguy) | Resource file (.res) generator and map packer.<br>.res files are obsolete in HLC but this is still useful for map packing. |
 
 ## Server Plugins
 
@@ -62,7 +70,8 @@ See these [Angelscript](https://steamcommunity.com/sharedfiles/filedetails/?id=6
 | [:arrow_down:](https://github.com/wootguy/TooManyPolys/releases/latest)&nbsp;&nbsp;[TooManyPolys](https://github.com/wootguy/TooManyPolys) | Angelscript | Prevents high-poly player models from tanking framerates. |
 | [:arrow_down:](https://github.com/wootguy/voice_commands/releases/latest)&nbsp;&nbsp;[voice_commands](https://github.com/wootguy/voice_commands) | Angelscript | Adds custom voice commands that function like the "Take Cover!" and "Medic!" alerts. |
 
-## Map-Specific Scripts/Plugins
+## Map Scripts/Plugins
+Some of these have been converted to [Half-Life Co-op plugins](https://github.com/wootguy/HLCMapPlugins/tree/master).
 
 | Repository | Description |
 | --- | --- |
