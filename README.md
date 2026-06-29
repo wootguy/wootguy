@@ -16,7 +16,7 @@ My main project is [Half-Life Co-op](https://github.com/wootguy/SevenKewp). Most
 ## Websites
 | Repository | URL | Description |
 | --- | --- | --- |
-| [scmapdb](https://github.com/wootguy/scmapdb) | https://wootguy.github.io/scmapdb/ | Map repacker for [SCMapDB](http://scmapdb.com/). |
+| [hlcoop_web](https://github.com/wootguy/hlcoop_web) | https://wootguy.github.io/hlcoop_web/ | Web interface for my Half-Life Co-op server. |
 | [pmodels](https://github.com/wootguy/pmodels) | https://wootguy.github.io/pmodels/ | Helps you find player models. |
 | [sctracker](https://github.com/wootguy/sctracker) | https://wootguy.github.io/sctracker/ | [GameTracker](https://www.gametracker.com/search/hl/?search_by=server_variable&search_by2=gamename&query=Sven%20Co-op) alternative. |
 
@@ -33,6 +33,7 @@ Deprecated tools that were designed specifically for Sven Co-op.
 | [:arrow_down:](https://github.com/wootguy/Glitch-Life/releases/latest)&nbsp;&nbsp;[Glitch-Life](https://github.com/wootguy/Glitch-Life) | Randomizes maps. |
 | [:arrow_down:](https://github.com/wootguy/mmlib#creating-a-new-project-that-uses-mmlib)&nbsp;&nbsp;[mmlib](https://github.com/wootguy/mmlib) | Utility code, private headers, and build system for metamod plugin devs. |
 | [:arrow_down:](https://github.com/wootguy/resguy/releases/latest)&nbsp;&nbsp;[resguy](https://github.com/wootguy/resguy) | Resource file (.res) generator and map packer.<br>.res files are obsolete in HLC but this is still useful for map packing. |
+| [:arrow_down:](https://wootguy.github.io/scmapdb/)&nbsp;&nbsp;[scmapdb](https://github.com/wootguy/scmapdb) | Map repacker for [SCMapDB](http://scmapdb.com/). | 
 
 ## Server Plugins
 
