@@ -9,7 +9,7 @@ My main project is [Half-Life Co-op](https://github.com/wootguy/SevenKewp). Most
 | Repository | Description |
 | --- | --- |
 | [:arrow_down:](https://github.com/wootguy/bspguy/releases/latest)&nbsp;&nbsp;[bspguy](https://github.com/wootguy/bspguy) | Map explorer and editor. |
-| [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Model editor. |
+| [:arrow_down:](https://github.com/wootguy/modelguy/releases/latest)&nbsp;&nbsp;[modelguy](https://github.com/wootguy/modelguy) | Model previewer and editor. |
 | [:arrow_down:](https://github.com/wootguy/spriteguy/releases/latest)&nbsp;&nbsp;[spriteguy](https://github.com/wootguy/spriteguy) | Command-line sprite compiler and editor. |
 | [:arrow_down:](https://github.com/wootguy/studiodec/releases/latest)&nbsp;&nbsp;[studiodec](https://github.com/wootguy/studiodec) | Command-line model decompiler. |
 
